@@ -3,6 +3,12 @@
 Landing page responsive sviluppata in **React**.  
 Progetto realizzato come esercizio per componenti riutilizzabili.
 
+## 🌐 Demo
+
+👉 [Live Preview su Netlify](https://reactlandingone.netlify.app/)
+
+![screenshot](./images/screenshot.webp)
+
 ## 🚀 Avvio
 
 ```bash
