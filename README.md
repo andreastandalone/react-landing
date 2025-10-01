@@ -7,7 +7,7 @@ Progetto realizzato come esercizio per componenti riutilizzabili.
 
 👉 [Live Preview su Netlify](https://reactlandingone.netlify.app/)
 
-![screenshot](./images/screenshot.webp)
+![screenshot](./src/images/screenshot.webp)
 
 ## 🚀 Avvio
 
